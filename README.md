@@ -2,7 +2,7 @@
 ...czyli jak w szybki sposób rozpocząć przygodę w świecie Javy. Bez zbędnej konfiguracji środowiska od razu przechodzimy do tego, co najlepsze: praktyki!
 
 ## Przydatne linki
-Post na blogu: [Darmowa Wirtualna Maszyna dla Programisty Java](https://javowiec.pl/narzedzia/darmowa-wirtualna-maszyna-dla-programisty-java)
+Post na Blogu Javowiec.pl: [Darmowa Wirtualna Maszyna dla Programisty Java](https://javowiec.pl/narzedzia/darmowa-wirtualna-maszyna-dla-programisty-java)
 
 Do szybkiego uruchomienia gotowego środowiska dla Programisty Java będą potrzebne Ci tylko dwie rzeczy:
 1. [*VMware Workstation Player*](https://www.vmware.com/content/vmware/vmware-published-sites/us/products/workstation-player/workstation-player-evaluation.html.html)
