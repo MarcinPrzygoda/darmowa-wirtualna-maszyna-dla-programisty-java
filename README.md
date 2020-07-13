@@ -2,11 +2,11 @@
 ...czyli jak w szybki sposób rozpocząć przygodę w świecie Javy. Bez zbędnej konfiguracji środowiska od razu przechodzimy do tego, co najlepsze: praktyki!
 
 ## Przydatne linki
-Post na blogu: TODO
+Post na blogu: [Darmowa Wirtualna Maszyna dla Programisty Java](https://javowiec.pl/narzedzia/darmowa-wirtualna-maszyna-dla-programisty-java)
 
 Do szybkiego uruchomienia gotowego środowiska dla Programisty Java będą potrzebne Ci tylko dwie rzeczy:
 1. [*VMware Workstation Player*](https://www.vmware.com/content/vmware/vmware-published-sites/us/products/workstation-player/workstation-player-evaluation.html.html)
-2. Wirtualna Maszyna, którą stworzyłem specjalnie dla Ciebie
+2. [Wirtualna Maszyna, którą stworzyłem specjalnie dla Ciebie](https://drive.google.com/file/d/1R3wFrYrpiKyfD3EEl6G8aIpnY0jYW2hC/view?usp=sharing)
 
 ## Historia zmian (Changelog)
 Wirtualna Maszyna będzie regularnie aktualizowana o najnowsze dostępne wersje narzędzi przydatnych programiście Java. Format wersjonowania jest następujący: `yy.MM.i`, gdzie `yy` to rok, `MM` to miesiąc, zaś `i` to liczba inkrementująca (jeżeli w tym samym miesiącu zostanie udostępniona nowsza wersja Wirtualnej Maszyny, to liczba ta się zwiększy o jeden).
