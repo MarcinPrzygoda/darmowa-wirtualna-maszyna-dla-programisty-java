@@ -8,7 +8,7 @@ Do szybkiego uruchomienia gotowego środowiska dla Programisty Java będą potrz
 1. [*VMware Workstation 15 Player*](https://www.vmware.com/content/vmware/vmware-published-sites/us/products/workstation-player/workstation-player-evaluation.html.html)
 2. Wirtualna Maszyna, którą stworzyłem specjalnie dla Ciebie
 
-## Historia zmian
+## Historia zmian (Changelog)
 Wirtualna Maszyna będzie regularnie aktualizowana o najnowsze dostępne wersje narzędzi przydatnych programiście Java. Format wersjonowania jest następujący: `yy.MM.i`, gdzie `yy` to rok, `MM` to miesiąc, zaś `i` to liczba inkrementująca (jeżeli w tym samym miesiącu zostanie udostępniona nowsza wersja Wirtualnej Maszyny, to liczba ta się zwiększy o jeden).
 
 ### v20.07.1
