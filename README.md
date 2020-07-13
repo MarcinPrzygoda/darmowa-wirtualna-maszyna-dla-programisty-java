@@ -5,7 +5,7 @@
 Post na blogu: TODO
 
 Do szybkiego uruchomienia gotowego środowiska dla Programisty Java będą potrzebne Ci tylko dwie rzeczy:
-1. [*VMware Workstation 15 Player*](https://www.vmware.com/content/vmware/vmware-published-sites/us/products/workstation-player/workstation-player-evaluation.html.html)
+1. [*VMware Workstation Player*](https://www.vmware.com/content/vmware/vmware-published-sites/us/products/workstation-player/workstation-player-evaluation.html.html)
 2. Wirtualna Maszyna, którą stworzyłem specjalnie dla Ciebie
 
 ## Historia zmian (Changelog)
