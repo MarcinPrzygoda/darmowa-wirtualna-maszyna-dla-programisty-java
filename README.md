@@ -9,7 +9,7 @@ Do szybkiego uruchomienia gotowego środowiska dla Programisty Java będą potrz
 2. [Wirtualna Maszyna, którą stworzyłem specjalnie dla Ciebie](https://drive.google.com/file/d/1R3wFrYrpiKyfD3EEl6G8aIpnY0jYW2hC/view?usp=sharing)
 
 ## Historia zmian (Changelog)
-Wirtualna Maszyna będzie regularnie aktualizowana o najnowsze dostępne wersje narzędzi przydatnych programiście Java. Format wersjonowania jest następujący: `yy.MM.i`, gdzie `yy` to rok, `MM` to miesiąc, zaś `i` to liczba inkrementująca (jeżeli w tym samym miesiącu zostanie udostępniona nowsza wersja Wirtualnej Maszyny, to liczba ta się zwiększy o jeden).
+Wirtualna Maszyna będzie regularnie aktualizowana o najnowsze dostępne wersje narzędzi przydatnych Programiście Java. Format wersjonowania jest następujący: `yy.MM.i`, gdzie `yy` to rok, `MM` to miesiąc, zaś `i` to liczba inkrementująca (jeżeli w tym samym miesiącu zostanie udostępniona nowsza wersja Wirtualnej Maszyny, to liczba ta się zwiększy o jeden).
 
 ### v20.07.1
 * Docker: **19.03.12**
