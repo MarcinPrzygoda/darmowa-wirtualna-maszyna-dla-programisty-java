@@ -21,7 +21,7 @@ Wirtualna Maszyna będzie regularnie aktualizowana o najnowsze dostępne wersje 
 * Git: **2.25.1**
 * Git LFS: **2.9.2**
 * IntelliJ IDEA Community: **2020.1.3**
-* Java: **11.0.7-zulu**
+* Java: **11.0.7**
 * Maven: **3.6.3**
 * SdkMan: **5.8.5+522**
 * Ubuntu: **20.04**
